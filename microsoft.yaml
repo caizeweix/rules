@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,uhf.microsoft.com
+  - DOMAIN-SUFFIX,wcpstatic.microsoft.com
   - DOMAIN-SUFFIX,graph.microsoft.com
   - DOMAIN-SUFFIX,fpt.microsoft.com
   - DOMAIN-SUFFIX,admin.microsoft.com
