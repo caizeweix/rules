@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-SUFFIX,account.microsoft.com
   - DOMAIN,img-prod-cms-rt-microsoft-com.akamaized.net
   - DOMAIN,mwf-service.akamaized.net
   - DOMAIN,statics-marketingsites-eas-ms-com.akamaized.net
@@ -32,6 +33,7 @@ payload:
   - DOMAIN,productionresultssa17.blob.core.windows.net
   - DOMAIN,productionresultssa18.blob.core.windows.net
   - DOMAIN,productionresultssa19.blob.core.windows.net
+  - DOMAIN-SUFFIX,copilot.microsoft.com
   - DOMAIN,copilot-proxy.githubusercontent.com
   - DOMAIN,copilot-workspace.githubnext.com
   - DOMAIN,productioncopilot-host-westus.webpubsub.azure.com
@@ -68,7 +70,6 @@ payload:
   - DOMAIN-SUFFIX,bingapis.com
   - DOMAIN-SUFFIX,msgamestudios.com
   - DOMAIN-SUFFIX,microsoft.cl
-  - DOMAIN-SUFFIX,microsoft.com
   - DOMAIN-SUFFIX,microsoft.cz
   - DOMAIN-SUFFIX,microsoft.de
   - DOMAIN-SUFFIX,microsoft.dk
